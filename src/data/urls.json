@@ -1,0 +1,19 @@
+{
+    "shops": {
+        "amazon": {
+            "url": "https://www.amazon.com.br/"
+        },
+        "magazine_luiza": {
+            "url": "https://www.magazineluiza.com.br/"
+        },
+        "americanas": {
+            "url":"https://www.americanas.com.br/"
+        },
+        "casas_bahia": {
+            "url":"https://www.casasbahia.com.br/"
+        },
+        "zoom": {
+            "url":"https://www.zoom.com.br/"
+        }
+    }
+}

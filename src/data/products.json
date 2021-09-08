@@ -1,0 +1,49 @@
+{
+    "products": {
+        "eletronic": 
+        [
+            {
+                "name": "Módulo Amplificador Taramps Ts400 400W RMS 2 Ohms 4 Canais"
+            },
+            {
+                "name": "DVD player Automotivo Leadership 7 5975 touchscreen"
+            },
+            {
+                "name": "Media Receiver Pioneer MVH 98UB Bluetooth USB"
+            },
+            {
+                "name": "Calculadora Financeira HP 12c Gold"
+            },
+            {
+                "name": "Carregador Original Portátil 10.000 MAh Pineng Power Bank slim"
+            },
+            {
+                "name": "CONVERSOR E GRAVADOR DIGITAL FULL HD DTV-7000S"
+            },
+            {
+                "name": "DVD Player Philco PH136 HDMI Preto"
+            },
+            {
+                "name":  "Fone De Ouvido Bluetooth Sem Fio Air Dots 2 Preto - Redmi"
+            },
+            {
+                "name": "Headset Gamer com Microfone JBL Quantum 100"
+            },
+            {
+                "name":  "soundbar samsung 320 w 2.1 canais 4 hdmi hw-t555"
+            },
+            {
+                "name": "Tablet Samsung Galaxy Tab A 2019 SM-T290N 32GB 8 MP Android"
+            },
+            {
+                "name": "Caixa de Som Bluetooth JBL Flip 5"
+            },
+            {
+                "name":  "Suporte Tv Triarticulado Lcd Led Plasma 20 Até 43 Mod 1Cex"
+            },
+            {
+                "name": "Smart TV LED 32 TCL HDR 32S6500 2 HDMI"
+            }        
+        ]
+    }
+}
